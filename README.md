@@ -1,0 +1,2 @@
+messagecenter.sns.chat
+======================
